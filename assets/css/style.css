@@ -165,18 +165,46 @@ input[type=submit] {
 }
 
 #hang{
-background: url(http://lorempixel.com/400/200/technics/1/);
+    background: url(http://lorempixel.com/400/200/technics/1/);
 }
-
 #rpg{
-background: url(http://lorempixel.com/400/200/technics/2/);
+    background: url(http://lorempixel.com/400/200/technics/2/);
 }
 #triv{
-background: url(http://lorempixel.com/400/200/technics/5/);
+    background: url(http://lorempixel.com/400/200/technics/5/);
 }
 #rut{
-background:url(http://lorempixel.com/400/200/technics/7/);
+    background:url(http://lorempixel.com/400/200/technics/7/);
 }
 #rock{
-background: url(http://lorempixel.com/400/200/technics/9/);
+    background: url(http://lorempixel.com/400/200/technics/9/);
+}
+
+@media only screen and (max-width: 768px) {
+/* I purposely made my first assignment responsive for resizing before knowing
+we were going to make these responsive. It should work for this size however.*/
+}
+
+@media only screen and (max-width: 640px) {
+
+.full {
+    margin-top: 140px;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    width:100%;
+    margin:0;
+}
+nav {
+    display:flex;
+    justify-content: center;
+    width:100%;
+    margin:0;
+    margin-top: 20px;
+}
+.imgframe {
+    float: none;
+    margin-left:20%;
 }
