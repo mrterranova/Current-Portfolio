@@ -193,6 +193,11 @@ input[type=submit] {
     background-repeat: no-repeat;
 }
 
+#project1 {
+    background-image: url('../images/loremImage6.jpg');
+    background-repeat: no-repeat;
+}
+
 @media only screen and (max-width: 768px) {
 /* I purposely made my first assignment responsive for resizing before knowing
 we were going to make these responsive. It should work for this size however.*/
