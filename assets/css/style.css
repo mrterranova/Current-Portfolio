@@ -172,17 +172,19 @@ input[type=submit] {
 #rpg{
     background-image: url('../images/loremImage2.jpg');
     background-repeat: no-repeat;
+    background-size: 400px;
 }
 
 #triv{
     background-image: url('../images/loremImage3.jpg');
     background-repeat: no-repeat;
+    background-size: 400px;
 }
 
 #rut{
     background-image: url('../images/loremImage4.jpg');
     background-repeat: no-repeat;
-    background-image: 400px;
+    background-size: 400px;
 }
 #api{
     background-image: url('../images/question.jpg');
