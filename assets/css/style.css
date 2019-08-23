@@ -167,6 +167,7 @@ input[type=submit] {
 #hang {
     background-image: url('../images/loremImage6.jpg');
     background-repeat: no-repeat;
+    background-size: 400px;
 }
 
 #rpg{
@@ -195,6 +196,7 @@ input[type=submit] {
 #rock{
     background-image: url('../images/loremImage5.jpg');
     background-repeat: no-repeat;
+    background-size: 400px;
 }
 
 #project1 {
