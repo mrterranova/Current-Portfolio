@@ -182,10 +182,12 @@ input[type=submit] {
 #rut{
     background-image: url('../images/loremImage4.jpg');
     background-repeat: no-repeat;
+    background-image: 400px;
 }
 #api{
     background-image: url('../images/question.jpg');
     background-repeat:no-repeat;
+    background-size: 400px;
 }
 
 #rock{
